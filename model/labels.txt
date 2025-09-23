@@ -1,0 +1,3 @@
+0 Controle
+1 Celular
+2 Pessoa
